@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "8a1b41494d34e085",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0eeec27971ecfe9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Marketing/8-23-2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f945d32f7dccfad",
+    "type": "split",
+    "children": [
+      {
+        "id": "223166819341e8ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfe987ca43be12a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ad090914c7fcbe1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1076a8f68b4118b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "756b9f8f59866c3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f94d3671c9efd762",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cbd2dbc768e0391",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Marketing/8-23-2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c718ff4ec787d8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Marketing/8-23-2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "860104508d8c74eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9cd8d081623207bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Marketing/8-23-2022.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b0eeec27971ecfe9",
+  "lastOpenFiles": [
+    "Computer Networks/Chapter 1 - Introduction - 8-22-22.md",
+    "Images/Screen Shot 2022-08-19 at 12.41.55 PM.png",
+    "Computer Networks/Why TCP IP? 8-22-22.md",
+    "Computer Networks/Why Computer Networks?.md",
+    "Management/Untitled.md",
+    "Management/Untitled 1.md",
+    "2022-08-16.md",
+    "This is a Test Note.md",
+    "This is a second Test Note.md"
+  ]
+}
