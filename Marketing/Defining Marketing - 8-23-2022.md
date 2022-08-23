@@ -13,7 +13,22 @@ Marketing Management Orientations
 Customer Satisfaction
 	-A pleasurable fulfillment response to a consumption experience
 	-Driver by disconfirmation
-	-
+
+Marketing is...
+	-A business philosophy (marketing concept)
+	-A Business discipline (marketing ideas)
+	-A distinct unit in an organization (marketing department)
+	-A set of business activities (advertising, etc)
+	-Very number centric (data)
+
+-------
+Shareholder Orientation
+
+Shareholder Concept
+	-A focus on maximizing shareholder value
+	-Encourages very short-term thinking
+
+
 
 
 
