@@ -12,6 +12,7 @@ Packet-switching: store-and-forward
 		-Takes L/R seconds to transmit (push out) L-bit packet into link at R bps
 	-Store and Forward
 		-Entire packet must arrive at router before it can be transmitted on next link
+			-WHY: Router has to determine the destination address from the header of the packet
 	-End-end Delay
 		- =2L/R (assuming zero propagation delay)
 	-One-hop Numerical Example:

@@ -1,3 +1,20 @@
+**Access Networks: Enterprise Networks**
+![[Screen Shot 2022-09-02 at 11.57.31 AM.png]]
+	-Typically used in companies, universities, etc
+	-Mix of wired and wireless link technologies, connecting a mix of switches and routers
+		-Ethernet: Wired access at 100 Mbps, 1 Gbps, 10 Gbps
+		-WiFi: Wireless access points at 11, 54, 450 Mbps
+
+**Host: Sends Packets of Data**
+	![[Screen Shot 2022-09-02 at 12.01.24 PM.png]]
+	-Host sending function
+		-Takes application message
+		-Breaks into smaller chunks, known as packets, of length L bits
+		-Transmits packet into access network at transmission rate R
+			-Link transmission rate, aka link capacity, aka link bandwidth
+	![[Screen Shot 2022-09-02 at 12.00.39 PM.png]]
+	
+
 **Links: Physical Media**
 
 **bit**: Propagates between transmitter/receiver pairs
