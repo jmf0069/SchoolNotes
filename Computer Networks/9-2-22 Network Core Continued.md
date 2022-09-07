@@ -45,7 +45,7 @@
 	Answer: No, the network cannot support 100 users using packet-switching
 	![[Screen Shot 2022-09-02 at 12.44.10 PM.png]]
 	How do you know when the network stops supporting N users?
-		-When there is greater than a 5% chance that more than given users will be on network at the same time
+		-When there is greater than a 5% chance that more than 10 users will be on network at the same time
 
 Is packet switching a "slam dunk winner"
 	-Great for bursty data - sometimes has data to send, but at other times not
@@ -55,3 +55,12 @@ Is packet switching a "slam dunk winner"
 		-Protocols needed for reliable data transfer, congestion control
 	-How to provide circuit-like behavior
 		-Bandwidth guarantees used for audio/video applications
+
+Bursty Traffic
+	-Use packet switching
+	-Computer traffic, web access, downloads, etc
+	-On-demand allocation of resources
+Constant Bitrate Traffic
+	-Use circuit switching
+	-Resources are reserved
+![[Screen Shot 2022-09-07 at 12.12.30 PM.png]]
