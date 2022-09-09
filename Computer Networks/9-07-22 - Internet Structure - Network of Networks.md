@@ -39,6 +39,7 @@ How do loss and delay occur?
 			-R: link transmission rate (bps)
 			-d.trans = L/R
 		-d.prop: Propagation delay
+			-Time it takes for 1 bit to go from link to link
 			-d: length of physical link
 			-s: propagation speed in medium
 			-d.prop = d/s
@@ -58,3 +59,9 @@ Packet queueing delay
 	-La/R >= 1: Average queuing delay large
 	-La/R 
 	-![[Screen Shot 2022-09-07 at 12.49.55 PM.png]]
+**aL << R** : d.queue is **low** (aL/R ~ 0)
+**aL -> R** : d.queue is **high** (aL/R -> 1)
+aL > R : d.queue infinity (aL/R > 1)
+	High congestion
+	System failure
+![[Screen Shot 2022-09-09 at 12.14.14 PM.png]]
