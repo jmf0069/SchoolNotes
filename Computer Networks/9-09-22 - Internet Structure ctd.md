@@ -38,8 +38,3 @@ Throughput: Internet Scenario
 
 -----
 
-Protocol Layers, Service Models
-
-Protocol "Layers"
-	-Networks are complex with many pieces:
-		-Hosts, routers, links of media, applications, protocols, hardware, software, etc
