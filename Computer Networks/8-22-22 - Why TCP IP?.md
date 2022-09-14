@@ -22,4 +22,12 @@ Other Networks:
 			-Stateless routers
 				-After router forwards packet, the router does not remember that it forwarded the packet
 			-Decentralized algorithms
+		-Internetworking on Network Layer
+			- Simpler, minimal functions, autonomy
+			- No reliablility / congestion control
+		-Reliability is placed in the Transport Layer
+			-Reliability
+			-Congestion Control
+			-Flow Control
+			-Connection Setup
 

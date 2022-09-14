@@ -24,5 +24,9 @@ How to build/design very large complex networks?
 					-![[Screen Shot 2022-09-12 at 12.37.21 PM.png]]
 	-Summary: ![[Screen Shot 2022-09-12 at 12.43.37 PM.png]]
 
-Network Reference Models
-	-Internet TCP/IP Protocol Suite vs ISO OSI (Open System Interconnection)
+Reference Model
+	-Define functions in each layer
+	-No Protocol
+
+
+
