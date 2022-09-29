@@ -47,3 +47,15 @@ Data Sources
 		-Data that is sitting around and can be used/applied to research
 	-Start with Secondary Data, then when you need more than what is available, collect Primary Data
 
+------
+
+Microsoft
+	-For new insights, new methods are sometimes needed
+	-Every method has its limitations, so over relying on a single method can lead to problems
+	-Even new methods, new data, and big data can still lead you into trouble so a balanced approach using multiple methods and data is needed
+	-What can they do?
+		-Triangulation
+			-When you find an insight with one method, find that insight in a different method to confirm its not artificial
+		-Be aware of the "unknown unknowns"
+		-Understand the signal-to-noise ratio is declining
+	-There's too much data - too much noise!
