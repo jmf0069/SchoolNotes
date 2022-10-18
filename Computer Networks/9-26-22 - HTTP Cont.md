@@ -43,5 +43,6 @@ Maintaining user-server state: cookies
 	-No notion of multi-step exchanges of HTTP messages to complete a Web "transaction"
 		-
 
+
 ------
 
