@@ -38,4 +38,15 @@ Client: Sending Datagrams
 
 Server: Receiving Datagrams
 	-![[Screen Shot 2022-10-17 at 12.35.37 PM.png]]
-	-
+
+DG Client Echo Processing
+	-![[Screen Shot 2022-10-19 at 12.13.07 PM.png]]
+
+UDP Echo Server
+	-![[Screen Shot 2022-10-19 at 12.19.47 PM.png]]
+
+DG Server Echo Processing
+	-![[Screen Shot 2022-10-19 at 12.23.10 PM.png]]
+
+Bare minimum UDP Client
+	-![[Screen Shot 2022-10-19 at 12.26.16 PM.png]]
